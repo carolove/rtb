@@ -1,7 +1,6 @@
 package mopub
 
 import (
-	"encoding/json"
 	"github.com/evandigby/rtb"
 )
 

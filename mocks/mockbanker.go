@@ -1,8 +1,9 @@
 package mocks
 
 import (
-	"github.com/evandigby/rtb"
 	"time"
+
+	"github.com/evandigby/rtb"
 )
 
 type MockBanker struct {
